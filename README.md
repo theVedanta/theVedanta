@@ -22,7 +22,4 @@
 </ul>
 <br>
 
-You can reach out to me here:
-<a href="mailto:vedanta1412@gmail.com" target="_blank" rel="noreferrer">vedanta1412@gmail.com</a>
-
 [![theVedanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=theVedanta&show_icons=true&theme=github_dark)](https://github.com/theVedanta/github-readme-stats)
