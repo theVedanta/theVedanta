@@ -22,4 +22,4 @@
 </ul>
 <br>
 
-[![theVedanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=theVedanta&show_icons=true&theme=github_dark)](https://github.com/theVedanta/github-readme-stats)
+<!-- [![theVedanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=theVedanta&show_icons=true&theme=github_dark)](https://github.com/theVedanta/github-readme-stats) -->
