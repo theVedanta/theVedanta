@@ -1,6 +1,6 @@
 ## Hi, I'm Vedanta - Full Stack developer
 
-## What I'm currently doing:
+### What I'm currently doing:
 <ul>
   <li>👕 Tea.ai - Personalized T-shirts through AI delivered at your doorstep</li>
   <li>⚙️ - Studying Quantum computing and cryptography</li>
@@ -13,7 +13,7 @@
   </li>
 </ul>
 
-### Some of my interests are:
+#### Some of my interests are:
 <ul>
   <li>Playing the Guitar 🎸</li>
   <li>Cubing 🧩</li>
