@@ -1,6 +1,6 @@
 <h2>Hi, I'm Vedanta - Full Stack developer</h2>
 
-### What I'm currently doing:
+## What I'm currently doing:
 <ul>
   
   <li>👕 Tea.ai - Personalized T-shirts through AI delivered at your doorstep</li>
