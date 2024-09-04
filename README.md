@@ -7,7 +7,7 @@
   
   <li>👨🏻‍💻 Working on:
     <ul>
-      <li>🏥 <a href="https://justsync.ai" target="_blank">SyncAI</a> - Prediabetes prevention platform</li>
+      <li>🏥 <a href="https://justsync.ai" target="_blank">Sync.ai</a> - Prediabetes prevention platform</li>
       <li>🏥 <a href="https://brdsai.com" target="_blank">Brds.ai</a> - EHR Platform for Doctors</li>
     </ul>
   </li>
