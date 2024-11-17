@@ -1,10 +1,7 @@
-## Hi, I'm Vedanta - Full Stack developer
+## Hi, I'm Vedanta
 
 ### What I'm currently doing:
 <ul>
-  <li>👕 Tea.ai - Personalized T-shirts through AI delivered at your doorstep</li>
-  <li>⚙️ - Studying Quantum computing and cryptography</li>
-  
   <li>👨🏻‍💻 Working on:
     <ul>
       <li>🏥 <a href="https://justsync.ai" target="_blank">Sync.ai</a> - Prediabetes prevention platform</li>
