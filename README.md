@@ -22,5 +22,5 @@
 </ul>
 <br>
 
-<iframe style="border-radius:20px" src="https://open.spotify.com/embed/playlist/2d2mAaqEgJHVx4UXWou4R0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[![Spotify embed]("https://open.spotify.com/embed/playlist/2d2mAaqEgJHVx4UXWou4R0?utm_source=generator")]
 
