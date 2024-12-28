@@ -1,5 +1,7 @@
 ![Header Image](https://github.com/theVedanta/theVedanta/blob/main/header.png?raw=true)
 
+
+
 ### What I'm currently doing:
 <ul>
   <li>👨🏻‍💻 Working on:
@@ -10,6 +12,8 @@
   </li>
 </ul>
 
+[![theVedanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=theVedanta&show_icons=true&theme=github_dark)](https://github.com/theVedanta/github-readme-stats)
+
 #### Some of my interests are:
 <ul>
   <li>Playing the Guitar 🎸</li>
@@ -18,4 +22,5 @@
 </ul>
 <br>
 
-<!-- [![theVedanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=theVedanta&show_icons=true&theme=github_dark)](https://github.com/theVedanta/github-readme-stats) -->
+<iframe style="border-radius:20px" src="https://open.spotify.com/embed/playlist/2d2mAaqEgJHVx4UXWou4R0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
