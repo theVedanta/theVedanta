@@ -12,7 +12,7 @@
   </li>
 </ul>
 
-[![theVedanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=theVedanta&show_icons=true&theme=github_dark)](https://github.com/theVedanta/github-readme-stats)
+<!-- [![theVedanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=theVedanta&show_icons=true&theme=github_dark)](https://github.com/theVedanta/github-readme-stats) -->
 
 #### Some of my interests are:
 <ul>
@@ -21,6 +21,3 @@
   <li>Mechanical Keyboards</li>
 </ul>
 <br>
-
-[![Spotify embed]("https://open.spotify.com/embed/playlist/2d2mAaqEgJHVx4UXWou4R0?utm_source=generator")]
-
