@@ -1,4 +1,4 @@
-## Hi, I'm Vedanta
+![Header Image](https://github.com/theVedanta/theVedanta/blob/main/header.png?raw=true)
 
 ### What I'm currently doing:
 <ul>
