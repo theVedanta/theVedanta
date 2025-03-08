@@ -17,6 +17,6 @@
   <ul>
     <li>Playing the Guitar 🎸</li>
     <li>Cubing 🧩</li>
-    <li>Mechanical Keyboards</li>
+    <li>Mechanical Keyboards ⌨</li>
   </ul>
 <br>
