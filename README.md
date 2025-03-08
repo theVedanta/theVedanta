@@ -4,9 +4,9 @@
 <ul>
   <li>👨🏻‍💻 Some previous projects:
     <ul>
-      <li>🏥 <a href="https://justsync.ai" target="_blank">Sync.ai</a> - Prediabetes prevention app</li>
+      <li>⚕️ <a href="https://justsync.ai" target="_blank">Sync.ai</a> - Prediabetes prevention app</li>
       <li>🏥 <a href="https://brdsai.com" target="_blank">Brds.ai</a> - EHR Platform for Doctors</li>
-      <li>🏥 <a href="https://storm.thevedanta.me" target="_blank">Storm</a> - Brainstorming interface</li>
+      <li>🧠 <a href="https://storm.thevedanta.me" target="_blank">Storm</a> - Brainstorming interface</li>
     </ul>
   </li>
 </ul>
