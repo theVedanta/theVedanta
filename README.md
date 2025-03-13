@@ -11,6 +11,9 @@
   </li>
 </ul>
 
+### What am I upto?
+Actively contributing to some great open-source projects like @tanstack/form, @tanstack/query, Zod, Zen, etc.
+
 <!-- [![theVedanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=theVedanta&show_icons=true&theme=github_dark)](https://github.com/theVedanta/github-readme-stats) -->
 
 #### Some of my interests:
