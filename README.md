@@ -1,7 +1,6 @@
 ![Header Image](https://github.com/theVedanta/theVedanta/blob/main/header.png?raw=true)
 
 <header>
-    <h1>Vedanta Somnathe</h1>
     <p>BS in Computer Science & Math • Resident Advisor • Blount Scholar</p>
   </header>
 
