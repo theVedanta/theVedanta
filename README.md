@@ -2,31 +2,27 @@
 
 <header>
     <h1>Vedanta Somnathe</h1>
-    <p>International student • BS in Computer Science & Math • Resident Advisor • ACM Treasurer • Honors College • Research Apprenticeship Program • Blount Scholar</p>
+    <p>BS in Computer Science & Math • Resident Advisor • Blount Scholar</p>
   </header>
 
   <section class="section" aria-labelledby="projects-title">
     <h2 id="projects-title">Some projects I'm proud of</h2>
     <ul>
       <li>
-        <strong>Meridian</strong> — Data visualization tool (1st place TanStack Hackathon winner)
+        <a href="https://vibeapps.dev/s/meridian" target="_blank" rel="noopener"><strong>Meridian</strong>strong></a> — Data visualization tool (1st place TanStack Hackathon winner)
         <br>
-        <a href="https://vibeapps.dev/s/meridian" target="_blank" rel="noopener">View project</a>
       </li>
       <li>
-        <strong>Sync.ai</strong> — Prediabetes prevention app
+         <a href="https://justsync.ai/" target="_blank" rel="noopener"><strong>Sync.ai</strong></a> — Prediabetes prevention app
         <br>
-        <a href="https://justsync.ai/" target="_blank" rel="noopener">View project</a>
       </li>
       <li>
-        <strong>Brds.ai</strong> — EHR platform for doctors
+         <a href="https://brdsai.com" target="_blank" rel="noopener"><strong>Brds.ai</strong></a> — EHR platform for doctors
         <br>
-        <a href="https://brdsai.com" target="_blank" rel="noopener">View project</a>
       </li>
       <li>
-        <strong>Storm</strong> — Brainstorming interface
+         <a href="https://storm.vedantas.xyz/about" target="_blank" rel="noopener"><strong>Storm</strong></a> — Brainstorming interface
         <br>
-        <a href="https://storm.vedantas.xyz/about" target="_blank" rel="noopener">View project</a>
       </li>
     </ul>
   </section>
