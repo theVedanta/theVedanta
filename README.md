@@ -1,3 +1,5 @@
+![Header Image](https://github.com/theVedanta/theVedanta/blob/main/header.png?raw=true)
+
 <header>
     <h1>Vedanta Somnathe</h1>
     <p>International student • BS in Computer Science & Math • Resident Advisor • ACM Treasurer • Honors College • Research Apprenticeship Program • Blount Scholar</p>
