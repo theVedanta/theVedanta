@@ -1,24 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Vedanta Somnathe – README</title>
-  <style>
-    body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; line-height: 1.6; color: #1f2937; background: #fff; padding: 2rem; }
-    header { margin-bottom: 1.5rem; }
-    h1 { font-size: 2rem; margin: 0 0 .25rem; }
-    h2 { font-size: 1.25rem; margin-top: 1rem; }
-    a { color: #2563eb; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    ul { margin: 0.5rem 0 1rem 1.25rem; }
-    li { margin: 0.25rem 0; }
-    .section { margin-bottom: 1.25rem; }
-  </style>
-</head>
-<body>
-
-  <header>
+<header>
     <h1>Vedanta Somnathe</h1>
     <p>International student • BS in Computer Science & Math • Resident Advisor • ACM Treasurer • Honors College • Research Apprenticeship Program • Blount Scholar</p>
   </header>
@@ -65,6 +45,3 @@
       <li>Mechanical keyboards + watches ⌨️</li>
     </ul>
   </section>
-
-</body>
-</html>
