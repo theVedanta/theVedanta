@@ -9,7 +9,7 @@
     <h2 id="projects-title">Some projects I'm proud of</h2>
     <ul>
       <li>
-        <a href="https://vibeapps.dev/s/meridian" target="_blank" rel="noopener"><strong>Meridian</strong>strong></a> — Data visualization tool (1st place TanStack Hackathon winner)
+        <a href="https://vibeapps.dev/s/meridian" target="_blank" rel="noopener"><strong>Meridian</strong></a> — Data visualization tool (1st place TanStack Hackathon winner)
         <br>
       </li>
       <li>
