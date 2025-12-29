@@ -1,20 +1,70 @@
-![Header Image](https://github.com/theVedanta/theVedanta/blob/main/header.png?raw=true)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Vedanta Somnathe – README</title>
+  <style>
+    body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; line-height: 1.6; color: #1f2937; background: #fff; padding: 2rem; }
+    header { margin-bottom: 1.5rem; }
+    h1 { font-size: 2rem; margin: 0 0 .25rem; }
+    h2 { font-size: 1.25rem; margin-top: 1rem; }
+    a { color: #2563eb; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    ul { margin: 0.5rem 0 1rem 1.25rem; }
+    li { margin: 0.25rem 0; }
+    .section { margin-bottom: 1.25rem; }
+  </style>
+</head>
+<body>
 
+  <header>
+    <h1>Vedanta Somnathe</h1>
+    <p>International student • BS in Computer Science & Math • Resident Advisor • ACM Treasurer • Honors College • Research Apprenticeship Program • Blount Scholar</p>
+  </header>
 
-  👨🏻‍💻 Some projects I'm proud of:
-    
-      [Meridian](https://vibeapps.dev/s/meridian) - Data visualization tool (1st place TanStack Hackathon winner)
-      [Sync.ai](https://justsync.ai/) - Prediabetes prevention app
-      [Brds.ai](https://brdsai.com) - EHR Platform for Doctors
-      [Storm](https://storm.vedantas.xyz/about) - Brainstorming interface
+  <section class="section" aria-labelledby="projects-title">
+    <h2 id="projects-title">Some projects I'm proud of</h2>
+    <ul>
+      <li>
+        <strong>Meridian</strong> — Data visualization tool (1st place TanStack Hackathon winner)
+        <br>
+        <a href="https://vibeapps.dev/s/meridian" target="_blank" rel="noopener">View project</a>
+      </li>
+      <li>
+        <strong>Sync.ai</strong> — Prediabetes prevention app
+        <br>
+        <a href="https://justsync.ai/" target="_blank" rel="noopener">View project</a>
+      </li>
+      <li>
+        <strong>Brds.ai</strong> — EHR platform for doctors
+        <br>
+        <a href="https://brdsai.com" target="_blank" rel="noopener">View project</a>
+      </li>
+      <li>
+        <strong>Storm</strong> — Brainstorming interface
+        <br>
+        <a href="https://storm.vedantas.xyz/about" target="_blank" rel="noopener">View project</a>
+      </li>
+    </ul>
+  </section>
 
-What am I up to?
-- Building Preact adapters for TanStack ecosystem (@tanstack/query, @tanstack/form)
-- Contributing to Mosaic's low-level event handling system (UW Data Lab)
+  <section class="section" aria-labelledby="activities-title">
+    <h2 id="activities-title">What am I up to?</h2>
+    <ul>
+      <li>Building Preact adapters for the TanStack ecosystem, including <code>@tanstack/query</code> and <code>@tanstack/form</code>.</li>
+      <li>Contributing to Mosaic's low-level event handling system (UW Data Lab).</li>
+    </ul>
+  </section>
 
-Some of my interests:
-  
-    Playing the Guitar 🎸
-    Cubing 🧩 (Sub-20 solver)
-    Mechanical Keyboards + Watches ⌨️
-  
+  <section class="section" aria-labelledby="interests-title">
+    <h2 id="interests-title">Some of my interests</h2>
+    <ul>
+      <li>Playing the guitar 🎸</li>
+      <li>Cubing 🧩 (Sub-20 solver)</li>
+      <li>Mechanical keyboards + watches ⌨️</li>
+    </ul>
+  </section>
+
+</body>
+</html>
