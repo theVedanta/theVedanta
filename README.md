@@ -23,6 +23,10 @@
          <a href="https://storm.vedantas.xyz/about" target="_blank" rel="noopener"><strong>Storm</strong></a> — Brainstorming interface
         <br>
       </li>
+    <li>
+         <a href="https://pocketi.in" target="_blank" rel="noopener"><strong>Pocket-i</strong></a> — Official app for IIM-Indore students
+        <br>
+      </li>
     </ul>
   </section>
 
