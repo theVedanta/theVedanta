@@ -1,7 +1,7 @@
 ![Header Image](https://github.com/theVedanta/theVedanta/blob/main/header.png?raw=true)
 
 <header>
-    <p>BS in Computer Science & Math • Resident Advisor • Blount Scholar</p>
+    <p>BS in Computer Science & Math • Maintainer @ Tanstack • Blount Scholar</p>
   </header>
 
   <section class="section" aria-labelledby="projects-title">
